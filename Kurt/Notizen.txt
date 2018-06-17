@@ -1,1 +1,8 @@
-(Name - Link - Datum)
+o	Adventure
+o	Horror
+o	Beat ’em up
+o	Shooter
+o	Jump ’n’ Run
+o	Musikspiel
+o	Shoot ’em up
+o	Rennspiele
